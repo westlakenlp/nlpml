@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/note1.txt
       name: notes
-    - url: https://www.bilibili.com/video/BV1r3411q74d?share_source=copy_web
+    - url: "https://www.bilibili.com/video/BV1r3411q74d?share_source=copy_web"
       name: video
     - url: /static_files/presentations/slide1.pdf
       name: slides
