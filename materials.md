@@ -8,13 +8,10 @@ permalink: /materials/
 
 ## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+[Natural Language Processing - A Machine Learning Perspective](https://www.cambridge.org/core_title/gb/509717)
 
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* Other recomend textbooks and reading materials (update continuing).
+* [Material #1](https://web.stanford.edu/~jurafsky/slp3/): Speech and Language processing
+
