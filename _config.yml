@@ -1,21 +1,6 @@
 # Site settings
 course_name: Natural Language Processing - A Machine Learning Perspective
-course_description: "西湖大学 张岳老师｜自然语言处理在线课程-机器学习视角下的自然语言处理 \n
-简介 Introduction \n
-《自然语言处理在线课程》系列视频是张岳老师编写的《Natural Language Processing: A Machine Learning Perspective （机器学习视角下的自然语言处理）》一书的对应课程。 张岳老师是西湖大学工学院文本智能实验室PI（Principal Investigator，特聘研究员），是国内外知名的 NLP（Natural Language Processing，自然语言处理）学者，详情可见个人主页或谷歌学术。
-
-The series of Natural Language Processing Online Course are the corresponding Chinese course videos of the book, Natural Language Processing: A Machine Learning Perspective. Professor Yue Zhang is a principal inverstigator of Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his personal page or Google Scholar.
-
-课程资源 Course Sources
-在线视频 Online Videos
-目前，课程在文本智能实验室bilibili账号，WestlakeNLP上更新，欢迎大家关注。
-
-Currently, the courses are updataed by our bilibili account, WestlakeNLP. We appreciate your following!
-
-课件 Slides
-我们会在本项目中持续更新课程视频对应的课件。
-
-In this page, we will keep updating course slides."
+course_description: "The series of Natural Language Processing Online Course are the corresponding Chinese course videos of the book, Natural Language Processing: A Machine Learning Perspective. Professor Yue Zhang is a principal inverstigator of Text Intelligence Lab, Westlake University, and a well-known NLP researcher. You may find more detailed information at his personal page or Google Scholar. Currently, the courses are updataed by our bilibili account, WestlakeNLP. We appreciate your following! In this page, we will keep updating course slides."
 course_semester: "Fall 2021"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
