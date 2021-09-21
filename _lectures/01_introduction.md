@@ -1,5 +1,5 @@
 ---
-type: lecture 1
+type: lecture
 date: 2021-09-08T8:00:00+4:30
 title: Course Intro
 tldr: "Introduction to natural language processing."
