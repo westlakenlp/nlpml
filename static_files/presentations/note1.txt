@@ -1,0 +1,759 @@
+﻿1
+00:00:06,875 --> 00:00:10,825
+同学们 欢迎来到自然语言处理在线课程
+Dear students  welcome to  Natural Language Processing online course
+
+2
+00:00:11,100 --> 00:00:13,100
+我是西湖大学的张岳 
+I'm Yue Zhang from Westlake University
+
+3
+00:00:13,400 --> 00:00:16,250
+这节课介绍课程的整体内容
+This lesson is an overall introduction to our Course 
+
+4
+00:00:19,170 --> 00:00:22,700
+这节课是咱们这门课的一个整体介绍
+This lesson is an overall introduction to our Course
+
+5
+00:00:27,320 --> 00:00:29,890
+我们的课程叫做自然语言处理
+The name of our course is natural language processing
+
+6
+00:00:30,050 --> 00:00:31,490
+natural language processing
+natural language processing
+
+7
+00:00:32,170 --> 00:00:33,050
+或者 nlp
+or NLP in its abbreviation
+
+8
+00:00:34,910 --> 00:00:35,760
+自然语言处理
+The field of Natural Language Processing
+
+9
+00:00:35,760 --> 00:00:37,680
+是人工智能的一个重要分支
+is an important branch of Artificial Intelligence
+
+10
+00:00:38,470 --> 00:00:39,040
+他研究
+which studies
+
+11
+00:00:39,190 --> 00:00:41,600
+机器如何自动的去理解和生成
+how does machine understand and generate
+
+12
+00:00:41,710 --> 00:00:42,480
+人类的语言
+human language automatically
+
+13
+00:00:44,140 --> 00:00:44,600
+那么早
+So back to the early stage
+
+14
+00:00:44,600 --> 00:00:47,570
+在计算机科学和人工智能发展的
+of Computer Science and Artificial Intelligence
+
+15
+00:00:48,060 --> 00:00:48,770
+初期阶段
+research
+
+16
+00:00:49,500 --> 00:00:52,130
+自然语言处理就受到了学界的关注
+NLP has attracted attention from the Community
+
+17
+00:00:53,180 --> 00:00:54,970
+比如人们会开始探究
+for example, they began to study
+
+18
+00:00:55,340 --> 00:00:56,240
+如何自动的
+how to translate automatically
+
+19
+00:00:56,240 --> 00:00:58,570
+将一种语言翻译成另外一种语言
+from one language to another
+
+20
+00:01:00,480 --> 00:01:01,390
+那么最近呢
+Meanwhile, recently
+
+21
+00:01:01,920 --> 00:01:03,630
+随着深度学习技术
+with the rapid development of deep learning technologies
+
+22
+00:01:04,320 --> 00:01:06,270
+和预训练技术的快速发展
+and pre-training methods
+
+23
+00:01:07,000 --> 00:01:09,590
+自然语言处理也获得了长足的进步
+NLP has gained a lot of success
+
+24
+00:01:10,690 --> 00:01:11,720
+我们可以看到
+We can see products like
+
+25
+00:01:12,290 --> 00:01:13,160
+智能音箱
+Smart Speakers
+
+26
+00:01:13,770 --> 00:01:14,600
+机器翻译
+Machine Translation Systems
+
+27
+00:01:15,130 --> 00:01:15,880
+自动文摘
+Automatic Summarization
+
+28
+00:01:16,570 --> 00:01:18,160
+作文自动评分等等
+Automatic essay scoring
+
+29
+00:01:18,450 --> 00:01:20,080
+需要自然语言处理的系统
+Systems that require NLP technology
+
+30
+00:01:20,330 --> 00:01:22,960
+在工业界也越来越多的得到了应用
+are also being implemented more often in the industry
+
+31
+00:01:26,410 --> 00:01:28,880
+那么自然语言处理是一个机器学习
+NLP is a machine learning (ML) driven
+
+32
+00:01:29,050 --> 00:01:30,240
+驱动的学科
+Subject
+
+33
+00:01:35,710 --> 00:01:37,400
+在我们这门课程里呢
+In our course
+
+34
+00:01:37,950 --> 00:01:38,480
+我们会
+we will
+
+35
+00:01:39,030 --> 00:01:41,960
+非常综合的介绍自然语言处理的
+give a comprehensive introduction to
+
+36
+00:01:42,430 --> 00:01:43,880
+基本方法和内容
+the basics of NLP disciplines and methods
+
+37
+00:01:45,350 --> 00:01:46,480
+我们会围绕着
+We will concentrate on
+
+38
+00:01:46,710 --> 00:01:49,280
+其中这个关键的机器学习技术
+those key machine learning concepts
+
+39
+00:01:49,670 --> 00:01:51,040
+展开课程的讨论
+for our discussion
+
+40
+00:01:55,940 --> 00:01:57,070
+我们的课程呢
+Our course
+
+41
+00:01:57,420 --> 00:01:58,190
+既可以被
+is both suitable for
+
+42
+00:01:59,060 --> 00:02:01,270
+高年级的本科生选用
+senior undergraduate students
+
+43
+00:02:02,300 --> 00:02:03,070
+也可以为
+and also for
+
+44
+00:02:03,460 --> 00:02:05,150
+准备从事自然语言处理
+junior graduate students
+
+45
+00:02:05,220 --> 00:02:08,030
+或者相关的人工智能学科的研究的
+who are carrying on researches
+
+46
+00:02:08,580 --> 00:02:09,630
+低年级的
+in NLP
+
+47
+00:02:10,420 --> 00:02:12,750
+硕士生博士生所采用
+and Artificial Intelligence related fields
+
+48
+00:02:14,280 --> 00:02:14,890
+另外呢
+Besides
+
+49
+00:02:15,760 --> 00:02:16,850
+ai 工程师
+If you are AI engineers
+
+50
+00:02:17,320 --> 00:02:19,450
+如果想深入了解自然语言处理
+That are interested in
+
+51
+00:02:19,480 --> 00:02:20,890
+背后的技术和方法
+the technologies and methods backing NLP applications
+
+52
+00:02:21,440 --> 00:02:22,770
+能够提出新的模型
+and able to design original models
+
+53
+00:02:23,520 --> 00:02:24,890
+这门课程也会对你
+This course is also
+
+54
+00:02:25,320 --> 00:02:26,570
+起到一定的帮助作用
+dedicated to you
+
+55
+00:02:31,900 --> 00:02:34,050
+我们的课程总结起来呢
+To summarize
+
+56
+00:02:34,820 --> 00:02:36,250
+有六个主要的特点
+Our course has 6 major features
+
+57
+00:02:38,020 --> 00:02:40,570
+首先是我们的讨论会比较深入
+first our discussion will be thorough
+
+58
+00:02:41,970 --> 00:02:43,840
+除了介绍自然语言处理
+We will not only talk about
+
+59
+00:02:43,890 --> 00:02:45,480
+主要研究的任务以外
+the well-known tasks of NLP
+
+60
+00:02:46,250 --> 00:02:48,880
+我们会以机器学习的方法
+But we will focus on the ML technologies
+
+61
+00:02:49,570 --> 00:02:51,320
+和数学背景为中心
+and the mathematical principles inside
+
+62
+00:02:52,050 --> 00:02:53,080
+仔细的阐明
+to illustrate
+
+63
+00:02:54,010 --> 00:02:56,640
+解决各大类任务所需要的
+How the fundamental
+
+64
+00:02:57,010 --> 00:03:00,200
+典型的数据结构和算法的基础
+data structures and algorithms work in these tasks
+
+65
+00:03:02,900 --> 00:03:06,530
+第二个特点是我们的涵盖会比较全面
+The second feature is that our coverage would be broad
+
+66
+00:03:08,140 --> 00:03:09,170
+这门课程呢
+This course
+
+67
+00:03:09,420 --> 00:03:11,490
+将会讨论自然语言处理
+will get to all the major
+
+68
+00:03:11,820 --> 00:03:13,490
+这门学科发展过程中
+methods of NLP
+
+69
+00:03:14,020 --> 00:03:16,370
+所涉及到的所有主要的方法
+during its evolvement
+
+70
+00:03:17,930 --> 00:03:18,820
+那既包括
+That include
+
+71
+00:03:19,410 --> 00:03:21,660
+传统意义上的统计学习方法
+The traditional statistical learning
+
+72
+00:03:22,370 --> 00:03:24,820
+又包括最近的深度学习方法
+the recent deep learning methods
+
+73
+00:03:26,530 --> 00:03:29,540
+那么既包括一些生成式的数学模型
+We will look into both generative mathematical models
+
+74
+00:03:30,250 --> 00:03:32,860
+又包括一些判别式的数学模型
+and discriminative mathematical models
+
+75
+00:03:36,140 --> 00:03:37,330
+第三个特点呢
+The third feature is that
+
+76
+00:03:37,820 --> 00:03:41,890
+是我们的课程尽量的设计的浅显易懂
+We want our course to be clear and easy to understand
+
+77
+00:03:43,060 --> 00:03:46,250
+当我们有比较陡的学习坡度的时候
+When we have a relatively steep learning curve
+
+78
+00:03:46,580 --> 00:03:49,570
+我们尽量给出尽可能多的细节
+we will provide more details to it
+
+79
+00:03:50,220 --> 00:03:52,490
+让学生能够循序渐进
+We hope you can learn it step by step
+
+80
+00:03:55,790 --> 00:03:58,560
+第四个特点是我们课程的组织方式
+
+81
+00:04:00,150 --> 00:04:01,240
+我们的课程呢
+The fourth feature is that our course
+
+82
+00:04:01,670 --> 00:04:02,320
+整体上
+As a whole
+
+83
+00:04:02,750 --> 00:04:05,680
+是按照整个这门学科发展的历程来
+is designed according to the timeline
+
+84
+00:04:06,030 --> 00:04:06,680
+组织的
+of NLP progress
+
+85
+00:04:07,510 --> 00:04:08,480
+那么模型呢
+The models we introduce
+
+86
+00:04:09,410 --> 00:04:12,640
+也从早期研究的相对较为简单的
+would begin with the simple
+
+87
+00:04:13,130 --> 00:04:14,000
+统计方法
+statistical methods
+
+88
+00:04:15,130 --> 00:04:18,440
+到最近的大规模预训练
+to the recent large-scale pre-training models
+
+89
+00:04:19,290 --> 00:04:21,120
+还有深度引变量模型
+and deep latent variable models
+
+90
+00:04:23,770 --> 00:04:25,580
+所有这些典型的方法呢
+All these classical models
+
+91
+00:04:25,890 --> 00:04:29,380
+都按照他被发明和出现的时间顺序
+will be introduced based on the timeline
+
+92
+00:04:29,610 --> 00:04:31,300
+这个大体框架来组织
+of their inventions or first appearances
+
+93
+00:04:32,090 --> 00:04:33,580
+这个也符合模型
+which also corresponds to our principal of
+
+94
+00:04:33,610 --> 00:04:36,380
+从简单到复杂的一个逻辑顺序
+from simple to complex
+
+95
+00:04:40,010 --> 00:04:41,670
+课程的第五个特点呢
+The fifth feature is that
+
+96
+00:04:42,780 --> 00:04:45,750
+是我们用一个统一的数学符号框架
+all the models that we discuss
+
+97
+00:04:46,220 --> 00:04:48,030
+来涵盖了
+are unified
+
+98
+00:04:48,600 --> 00:04:50,875
+所有的被讨论到的模型
+under the universal mathematical symbol framework
+
+99
+00:04:52,190 --> 00:04:55,040
+那么不管是简单的统计模型
+No matter if it's simple statistic models
+
+100
+00:04:56,110 --> 00:04:58,720
+还是参数量更大的深度学习模型
+Or it is deep learning models with a ton of parameters
+
+101
+00:04:59,740 --> 00:05:01,730
+不管是有监督学习的模型
+No matter it is supervised learning
+
+102
+00:05:02,460 --> 00:05:04,330
+还是无监督或者半监督
+Or it is unsupervised, semi-supervised learning
+
+103
+00:05:04,380 --> 00:05:05,810
+自监督学习的模型
+or self-supervised models
+
+104
+00:05:06,860 --> 00:05:08,050
+我们都统一到了
+We all take them
+
+105
+00:05:08,620 --> 00:05:10,210
+相同的符号体系下
+Under the same notation
+
+106
+00:05:11,340 --> 00:05:12,210
+我们会看到
+You will see
+
+107
+00:05:12,580 --> 00:05:15,930
+这些模型背后的历史关联和数学关联
+the historical and mathematical relations among these models
+
+108
+00:05:18,430 --> 00:05:19,420
+大家会有一个
+I hope you will get
+
+109
+00:05:20,710 --> 00:05:23,860
+总体的对自然语言处理建模的认识
+an overall comprehension of NLP models
+
+110
+00:05:27,100 --> 00:05:28,570
+那么第六个特点呢
+The last feature is that
+
+111
+00:05:29,300 --> 00:05:32,050
+就是课程的设置尽量允许灵活性
+We want the course to be as flexible as possible
+
+112
+00:05:33,260 --> 00:05:35,570
+不同的同学可以根据自己的需要
+Students with different needs
+
+113
+00:05:36,180 --> 00:05:37,650
+和自己所处的年级
+and of different grades
+
+114
+00:05:38,140 --> 00:05:40,170
+来选择所学习的内容
+can get what they need accordingly
+
+115
+00:05:42,680 --> 00:05:45,030
+那比如有的同学他只想了解自然
+For example, if you only want to know
+
+116
+00:05:45,030 --> 00:05:46,850
+语言处理都研究什么问题
+what are the problems that NLP deals with
+
+117
+00:05:48,040 --> 00:05:50,450
+事实上在第一大部分内容
+you can find the answers in the first chapter
+
+118
+00:05:50,480 --> 00:05:52,610
+我们将集中的讨论这些问题
+where we will tackle on these problems intensively
+
+119
+00:05:56,600 --> 00:05:58,150
+我们这课程呢
+The textbook
+
+120
+00:06:00,000 --> 00:06:01,430
+最主要的教材呢
+for our course
+
+121
+00:06:03,480 --> 00:06:05,270
+是由我和腾志杨博士
+is Natural Language Processing - A Machine Learning perspective
+
+122
+00:06:06,080 --> 00:06:06,830
+撰写的
+Written by me
+
+123
+00:06:08,040 --> 00:06:09,150
+自然语言处理
+And
+
+124
+00:06:09,480 --> 00:06:10,110
+这本书
+Dr. Zhiyang Teng
+
+125
+00:06:12,250 --> 00:06:13,680
+相关的一些资料呢
+You can find it
+
+126
+00:06:14,530 --> 00:06:16,600
+也可以在剑桥大学出版社的
+from the Cambridge University Press
+
+127
+00:06:17,170 --> 00:06:18,600
+网站上找到
+website
+
+128
+00:06:23,680 --> 00:06:24,770
+我们还推荐
+We also recommend
+
+129
+00:06:26,760 --> 00:06:27,050
+由
+the book
+
+130
+00:06:28,800 --> 00:06:30,850
+Dan Jurafsky 博士
+Written by Dr. Dan Jurafsky
+
+131
+00:06:31,600 --> 00:06:33,810
+和 James Martin 博士所
+and Dr. James Martin
+
+132
+00:06:34,280 --> 00:06:35,650
+共同撰写的这本
+named
+
+133
+00:06:36,320 --> 00:06:38,450
+Speech and Language Processing
+Speech and Language Processing
+
+134
+00:06:40,390 --> 00:06:41,220
+这本书呢
+This book
+
+135
+00:06:42,470 --> 00:06:45,020
+针对每个自然语言处理任务本身
+gives elaborate discussions
+
+136
+00:06:46,310 --> 00:06:48,260
+尤其是任务的语言学特点
+to the nlp tasks itself
+
+137
+00:06:48,990 --> 00:06:51,180
+和针对这个任务的重要特征
+especially its linguistic characteristics
+
+138
+00:06:52,430 --> 00:06:54,260
+进行了较为详细的讨论
+And its significant features
+
+139
+00:06:56,370 --> 00:06:57,560
+他的组织方式
+The arrangement of their book
+
+140
+00:06:58,490 --> 00:07:00,720
+和我们这门课程的主要教材
+has certain difference
+
+141
+00:07:01,730 --> 00:07:02,680
+有一定的不同
+to our book
+
+142
+00:07:03,450 --> 00:07:05,280
+可以作为补充来学习
+Which can serve as an useful supplementary
+
+143
+00:07:09,160 --> 00:07:09,810
+另外呢
+And also
+
+144
+00:07:10,760 --> 00:07:11,530
+我们推荐
+We recommend
+
+145
+00:07:13,120 --> 00:07:15,170
+宗成庆教授所书写的
+the book written by Chengqing Zong
+
+146
+00:07:16,360 --> 00:07:18,430
+统计自然语言处理这本书
+Tong Ji Zi Ran Yu Yan Chu Li
+
+147
+00:07:19,240 --> 00:07:20,830
+作为中文的
+As a Chinese
+
+148
+00:07:21,640 --> 00:07:22,110
+教材
+Textbook
+
+149
+00:07:23,990 --> 00:07:27,240
+大家可以看到各个自然语言处理任务
+You will learn the NLP tasks
+
+150
+00:07:27,950 --> 00:07:29,200
+的详细方法
+in detail
+
+151
+00:07:29,750 --> 00:07:30,720
+的中文介绍
+and in Chinese
+
+152
+00:07:32,875 --> 00:07:35,225
+这节课就上到这里咱们下次再见
+This ends our course introduction, see you on the next
+
