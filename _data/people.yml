@@ -3,7 +3,7 @@ instructors:
     profile_pic: /_images/pp/lecturer.jpeg
     webpage: https://www.westlake.edu.cn/academics/School_of_Engineering/About/Faculty/202006/t20200618_5980.shtml
 
-teaching_assistants:
-  - name: Hanmeng Liu
-    profile_pic: /_images/pp/bimu.jpg
-    webpage: bimu.cc
+// teaching_assistants:
+//   - name: Hanmeng Liu
+//     profile_pic: /_images/pp/bimu.jpg
+//     webpage: bimu.cc
