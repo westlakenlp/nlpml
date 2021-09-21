@@ -1,20 +1,21 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Natural Language Processing - A Machine Learning Perspective
+course_description: "西湖大学 张岳老师｜自然语言处理在线课程-机器学习视角下的自然语言处理"
+course_semester: "Fall 2021"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://kazemnejad.github.io/" # the base hostname & protocol for your site
+url: "https://github.com/bimunlp/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Westlake University"
+schoolurl: "https://westlake.edu.cn"
+twitter_username: Westlakenlp
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
-
+    School of Engineering
+    Westlake University
+    Hangzhou
+    Zhejiang
+    China
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
 
