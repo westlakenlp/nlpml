@@ -4,7 +4,7 @@ course_description: "西湖大学 张岳老师｜自然语言处理在线课程-
 course_semester: "Fall 2021"
 
 baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "https://github.com/bimunlp/" # the base hostname & protocol for your site
+url: "https://bimunlp.github.io" # the base hostname & protocol for your site
 
 schoolname: "Westlake University"
 schoolurl: "https://westlake.edu.cn"
