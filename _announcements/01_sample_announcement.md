@@ -1,4 +1,4 @@
 ---
-date: 2018-10-03T10:00:00+3:30
+date: 2021-09-03T10:00:00+3:30
 ---
-Sample announcement, Please check out [here](/).
+Welcome to follow us on [Bilibili](https://space.bilibili.com/639900532).
