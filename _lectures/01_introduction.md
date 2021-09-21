@@ -12,6 +12,3 @@ links:
     - url: /static_files/presentations/slide1.pdf
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
