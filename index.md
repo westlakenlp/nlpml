@@ -9,3 +9,5 @@ layout: home
 
 我们会在本项目中持续更新课程视频对应的课件。
 
+你可以通过[进入slack群组](https://westlakenlp.slack.com/join/shared_invite/zt-w4o5f9gy-Zm84Ua2S6fy5udpm__WVRg)参与课程讨论。
+
