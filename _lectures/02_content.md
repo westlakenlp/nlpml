@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-09-08T8:00:00+4:30
-title: 课程大纲
+title: 课程大纲(Content)
 tldr: "Introduction to natural language processing."
 thumbnail: /static_files/presentations/lec.jpg
 links: 
