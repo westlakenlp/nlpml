@@ -9,6 +9,6 @@ links:
       name: notes
     - url: https://www.bilibili.com/video/BV1pf4y1P7Rq?share_source=copy_web
       name: video
-    - url: /static_files/presentations/slide2.pdf
+    - url: /static_files/presentations/slides2.pdf
       name: slides
 ---
