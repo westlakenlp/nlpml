@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-10T8:00:00+4:30
+date: 2021-12-06T8:00:00+4:30
 title: Using Information Theory
 tldr: "信息论，最大熵模型，KL散度，交叉熵与困惑度"
 thumbnail: /static_files/presentations/lec.jpg
