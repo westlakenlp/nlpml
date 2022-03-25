@@ -4,15 +4,15 @@ instructors:
     webpage: https://www.westlake.edu.cn/academics/School_of_Engineering/About/Faculty/202006/t20200618_5980.shtml
 
 teaching_assistants:
+- name: Hanmeng Liu
+    profile_pic: /_images/pp/bimu.jpg
+    webpage: https://www.dtalg.com
   - name: Qiankun Fu
     profile_pic: /_images/pp/qiankun.jpg
     webpage: https://scholar.google.com/citations?user=UOoP794AAAAJ&hl=zh-CN
   - name: Yulong Chen
     profile_pic: /_images/pp/yulong.jpg
     webpage: https://scholar.google.com/citations?user=8P23zSkAAAAJ&hl=en
-  - name: Linyi Yang
-    profile_pic: /_images/pp/linyi.jpeg
-    webpage: https://www.linyi-yang.me/
-  - name: Hanmeng Liu
-    profile_pic: /_images/pp/bimu.jpg
-    webpage: https://www.bimu.cc
+  - name: Pai Liu
+    profile_pic: /_images/pp/liupai.jpg
+    webpage: 
