@@ -11,4 +11,7 @@ links:
       name: video
     - url: /static_files/presentations/slide1.pdf
       name: slides
+**Suggested Readings:**
+- [Readings 1](https://www.bilibili.com/video/BV1gR4y1x7sn?share_source=copy_web)
+- [Readings 2](https://www.bilibili.com/video/BV1TM4y1A7f1?share_source=copy_web)
 ---
