@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-04-16T4:00:00+4:30
 title: 'Assignment #4 - chapter 4'
-pdf: /static_files/assignments/chapter4-ex.pdf
+pdf: /static_files/assignments/chapter4_ex.pdf
 solutions: /static_files/assignments/chapter4_solutions.pdf
 due_event: 
     type: due
