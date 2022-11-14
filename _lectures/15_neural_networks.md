@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: https://www.bilibili.com/video/BV1xP4y1M7xm?t=3.0
       name: video
-    - url: /static_files/presentations/slide13.pdf
+    - url: /static_files/presentations/slide14.pdf
       name: slides
 --- 
