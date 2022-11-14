@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-09-05T8:00:00+4:30
-title: Representation learning
+title: Neural structured prediction
 tldr: ""
 thumbnail: /static_files/presentations/lec.jpg
 links: 
